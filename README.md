@@ -1,18 +1,4 @@
-# Team
-
-Daniel Escoto
-
-Jacob Doar
-
-Miranda Eng
-
-Dominik Schmidt
-
-James Garrett
-
-Parker Soto
-
-# SentimentJournal
+# mirror
 
 A journal to track a user's mood over time.
 
@@ -97,3 +83,17 @@ npm start
 ## Notes
 
 For running locally change the IP address in frontend http requests to localhost
+
+# Team
+
+Daniel Escoto
+
+Jacob Doar
+
+Miranda Eng
+
+Dominik Schmidt
+
+James Garrett
+
+Parker Soto
